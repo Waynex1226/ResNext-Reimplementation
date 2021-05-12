@@ -1,8 +1,6 @@
 # ResNext-Reimplementation
 
-
-The models directory is not able to upload to repository due to the file size is too big, use link:
-https://drive.google.com/drive/folders/13O0dE4QRiHCzvWlP2BX9ACmet5DjQZKV?usp=sharing
+The models directory is not able to upload to repository due to the file size is too big, use link: https://drive.google.com/drive/folders/13O0dE4QRiHCzvWlP2BX9ACmet5DjQZKV?usp=sharing
 
 Put the models folder in the project root directory
 
